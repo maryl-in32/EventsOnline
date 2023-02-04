@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+main {
+  min-height: 80vh;
+  border: 2inch;
+
+
+}
+/***  --------------------------- Program Details ----------------------  ***/
+.image-container {
+  width: 70%;
+  margin-top: 10px;
+  padding: 10px;
+  padding: 30px;
+}
+
+
+
+.h3-title {
+  margin-top: 10px;
+}
+
+.btn-ticket{
+  color: red;
+}
+
+.p-description {
+  margin-top: 30px;
+}
+
+.div-host {
+  margin-top: 30px;
+}
+
+.span-host {
+  color: blue;
+  margin-left: 10px;
+}
+
+.p-rating {
+  margin-top: 30px;
+}
+
+.h4-sub {
+  margin-top: 30px;
+}
+
+.div-date {
+  border-right: 2px solid darkgray;
+}
+
+.span-date-loc {
+  margin-left: 10px;
+  font-size: large;
+}
+
+.span-time {
+  margin-left: 10px;
+}
+
+.div-location {
+  margin-left: 40px;
+}
+
+.span-location {
+  margin-top: 30px;
+}
+
+
+.search-form {
+  display: flex;
+}
+
+.form-select {
+  margin-bottom: 20px;
+}
+
+
